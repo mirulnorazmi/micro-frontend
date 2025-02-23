@@ -56,6 +56,6 @@ npm start
 - Ensure that ports **5001, 5002, and 5003** are available before running the project.
 - The `npm-run-all` package is used to manage multiple applications concurrently.
 
-## License
-This project is licensed under [MIT License](LICENSE).
+![9l7dex](https://github.com/user-attachments/assets/b5a9690a-ebae-43b5-86de-ab32f6ba800c)
+
 
