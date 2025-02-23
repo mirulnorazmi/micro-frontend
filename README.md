@@ -3,6 +3,8 @@
 
 # Micro Frontend Project ![creator](https://img.shields.io/badge/creator-mirulnorazmi-white?labelColor=blue&style=flat)
 
+![9l7dex](https://github.com/user-attachments/assets/b5a9690a-ebae-43b5-86de-ab32f6ba800c)
+
 ![Node.js](https://img.shields.io/badge/Node.js-20.12.2-green) ![NPM](https://img.shields.io/badge/NPM-10.8.2-blue) ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 This project follows a micro frontend architecture, consisting of three separate applications:
@@ -55,7 +57,5 @@ npm start
 ## Notes
 - Ensure that ports **5001, 5002, and 5003** are available before running the project.
 - The `npm-run-all` package is used to manage multiple applications concurrently.
-
-![9l7dex](https://github.com/user-attachments/assets/b5a9690a-ebae-43b5-86de-ab32f6ba800c)
 
 
